@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Kyle</h1>
 <h3 align="center">Full Stack Web Developer born in the U.S., based in Japan</h3>
 
 - I’m currently working on [ii-vent](https://github.com/kylejeffrey/ii-vent)
