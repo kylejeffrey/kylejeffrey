@@ -4,7 +4,7 @@
 
 - I’m currently learning [React](https://reactjs.org/)
 
-- All of my projects are available at my website - kylejeffrey.me
+- All of my projects are available at my website - (kylejeffrey.me)
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/kyle-jeffrey/)
 
